@@ -11,7 +11,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" height="300" width="350" alt="Notion Face" src="https://github.com/user-attachments/assets/e0eb229f-ec32-40db-80f4-fb5acc8b8972"/>
+<img align="right" height="300" width="450" alt="Notion Face" src="https://github.com/user-attachments/assets/1454915c-0d6f-4f47-9b59-2cdf920474de"/>
 
 
 I'm a passionate aspiring Software Engineer from New York with a focus on creating innovative technical solutions. My journey in tech has equipped me with a diverse skill set in both frontend and backend development.
