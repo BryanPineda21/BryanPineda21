@@ -14,8 +14,6 @@
 <img align="right" height="300" width="450" alt="Notion Face" src="https://github.com/user-attachments/assets/1454915c-0d6f-4f47-9b59-2cdf920474de"/>
 
 
-I'm a passionate aspiring Software Engineer from New York with a focus on creating innovative technical solutions. My journey in tech has equipped me with a diverse skill set in both frontend and backend development.
-
 - 📚 A sophmore studying Computer Science & Mathematics @ Fordham University
 - 🔭 I'm currently working on [**HWSphere**](https://github.com/BryanPineda21/HWSphere)
 - 🌱 I'm currently learning **Machine Learning and Artificial Intelligence**
