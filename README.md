@@ -163,11 +163,7 @@ I'm a passionate Software Engineer from New York with a focus on creating innova
     </a>
   </p>
   
-  <p align="center">
-    <a href="https://github.com/BryanPineda21">
-      <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanPineda21&theme=tokyonight&hide_border=true" alt="Bryan's GitHub Streak"/>
-    </a>
-  </p>
+
   
   <p align="center">
     <a href="https://github.com/BryanPineda21">
