@@ -10,7 +10,7 @@
   <a href="https://github.com/BryanPineda21">
     <img src="https://img.shields.io/github/followers/BryanPineda21?label=Followers&style=social" alt="GitHub Badge">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=BryanPineda21&color=blueviolet" alt="Profile views">
+
   <a href="https://linkedin.com/in/pinedabryan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
@@ -193,11 +193,7 @@ I'm a passionate Software Engineer from New York with a focus on creating innova
   </a>
 </div>
 
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
