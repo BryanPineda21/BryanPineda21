@@ -14,13 +14,15 @@
 <img align="right" height="300" width="350" alt="Notion Face" src="https://github.com/user-attachments/assets/e0eb229f-ec32-40db-80f4-fb5acc8b8972"/>
 
 
-I'm a passionate Software Engineer from New York with a focus on creating innovative technical solutions. My journey in tech has equipped me with a diverse skill set in both frontend and backend development.
+I'm a passionate aspiring Software Engineer from New York with a focus on creating innovative technical solutions. My journey in tech has equipped me with a diverse skill set in both frontend and backend development.
 
+- 📚 A sophmore studying Computer Science & Mathematics @ Fordham University
 - 🔭 I'm currently working on [**HWSphere**](https://github.com/BryanPineda21/HWSphere)
 - 🌱 I'm currently learning **Machine Learning and Artificial Intelligence**
+- 🚀 I love building applications that solve real-world problems
 - 💬 Ask me about **Full Stack Development**
 - 📫 How to reach me: **bpineda2@fordham.edu**
-- 🚀 I love building applications that solve real-world problems
+
 
 <br>
 
@@ -80,7 +82,7 @@ I'm a passionate Software Engineer from New York with a focus on creating innova
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" />
+        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Node.js" width="48" height="48" />
       </a>
       <br>Node.js
     </td>
@@ -92,7 +94,7 @@ I'm a passionate Software Engineer from New York with a focus on creating innova
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="48" height="48" />
+        <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="48" height="48" />
       </a>
       <br>MongoDB
     </td>
@@ -130,7 +132,7 @@ I'm a passionate Software Engineer from New York with a focus on creating innova
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+        <img src="https://img.icons8.com/?size=512&id=52539&format=png" alt="GitHub" width="48" height="48" />
       </a>
       <br>GitHub
     </td>
