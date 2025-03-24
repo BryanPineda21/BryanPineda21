@@ -6,15 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;New+York+Based+🗽" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-  <a href="https://github.com/BryanPineda21">
-    <img src="https://img.shields.io/github/followers/BryanPineda21?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-
-  <a href="https://linkedin.com/in/pinedabryan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
 
 <br>
 
