@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **Machine Learning and Artificial Intelligence**
 - 🤖 Recently I have gained an interest in **Physics and Quantum Computing**
 - 🚀 I love building applications that solve real-world problems
-- This summer I will be working on **AI and MACHINE LEARINIG** projects
+- This summer I will be working on **Machine Learning and Artifical Intelligence** projects
 - 💬 Ask me about **Full Stack Development OR AI/ML**
 - 📫 How to reach me: **bpineda2@fordham.edu**
 
