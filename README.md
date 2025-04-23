@@ -17,8 +17,10 @@
 - 📚 A sophmore studying Computer Science & Mathematics @ Fordham University
 - 🔭 I'm currently working on [**HWSphere**](https://github.com/BryanPineda21/HWSphere)
 - 🌱 I'm currently learning **Machine Learning and Artificial Intelligence**
+- 🤖 Recently I have gained an interest in **Physics and Quantum Computing**
 - 🚀 I love building applications that solve real-world problems
-- 💬 Ask me about **Full Stack Development**
+- This summer I will be working on **AI and MACHINE LEARINIG** projects
+- 💬 Ask me about **Full Stack Development OR AI/ML**
 - 📫 How to reach me: **bpineda2@fordham.edu**
 
 
