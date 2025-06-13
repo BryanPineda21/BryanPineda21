@@ -16,8 +16,7 @@
 
 - 📚 A sophmore studying Computer Science & Mathematics @ Fordham University
 - 🔭 I'm currently working on [**HWSphere**](https://github.com/BryanPineda21/HWSphere)
-- 🤖 Recently I have gained an interest in **Physics and Quantum Computing**
-- This summer I will be working on **Machine Learning and Artifical Intelligence** projects
+- 🤖 Recently I have gained an interest in **Physics and Quantum Computing Research**
 - 📫 How to reach me: **bpineda2@fordham.edu**
 
 
@@ -144,31 +143,6 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/BryanPineda21">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BryanPineda21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bryan's GitHub Stats"/>
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanPineda21&layout=compact&theme=tokyonight&hide_border=true" alt="Bryan's Top Languages"/>
-    </a>
-  </p>
-  
-
-  
-  <p align="center">
-    <a href="https://github.com/BryanPineda21">
-      <img width="98%" src="https://github-activity-graph.vercel.app/graph?username=BryanPineda21&theme=tokyo-night&hide_border=true" alt="Bryan's GitHub Activity Graph"/>
-    </a>
-  </p>
-  
-  <details align="center">
-    <summary>🏆 GitHub Trophies</summary>
-    <img src="https://github-profile-trophy.vercel.app/?username=BryanPineda21&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Bryan's GitHub Trophies"/>
-  </details>
-</div>
-
-<br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
 
