@@ -80,7 +80,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Node.js" width="48" height="48" />
+        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="48" height="48" />
       </a>
       <br>Node.js
     </td>
