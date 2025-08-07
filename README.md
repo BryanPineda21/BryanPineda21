@@ -14,7 +14,7 @@
 <img align="right" height="300" width="450" alt="Notion Face" src="https://github.com/user-attachments/assets/1454915c-0d6f-4f47-9b59-2cdf920474de"/>
 
 
-- 📚 A sophmore studying Computer Science & Mathematics @ Fordham University
+- 📚 Studying Computer Science & Mathematics @ Fordham University
 - 🔭 I'm currently working on [**HWSphere**](https://github.com/BryanPineda21/HWSphere)
 - 🤖 Recently I have gained an interest in **Physics and Quantum Computing Research**
 - 📫 How to reach me: **bpineda2@fordham.edu**
