@@ -15,8 +15,7 @@
 
 
 - 📚 Studying Computer Science & Mathematics @ Fordham University
-- 🔭 I'm currently working on [**HWSphere**](https://github.com/BryanPineda21/HWSphere)
-- 🔬 I'm Currently doing **Computer Vision Research**
+- 🔭 I'm currently working on [**HWSphere**](https://github.com/BryanPineda21/HWSphere) and also doing **Computer Vision Research**
 - 🤖 Recently I have gained an interest in **Physics and Quantum Computing Research**
 - 📫 How to reach me: **bpineda2@fordham.edu**
 
